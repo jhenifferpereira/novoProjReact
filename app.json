@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "novoProjReact",
+    "slug": "novoProjReact",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "novoProjReact"
+}
